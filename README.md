@@ -6,7 +6,7 @@ Simple project overview.
 
 ## Description
 
-A a more detailed paragraph about the purpose of project work here and overview of use.
+A more detailed paragraph about the purpose of project work here and overview of use.
 
 ## Related Documentation
 * Link to internal Data Connect technical documentation (if repo is private)
