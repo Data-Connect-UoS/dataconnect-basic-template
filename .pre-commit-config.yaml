@@ -1,0 +1,7 @@
+# .pre-commit-config.yaml
+repos:
+  # Secret & Key Detection
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.24.2
+    hooks:
+      - id: gitleaks
